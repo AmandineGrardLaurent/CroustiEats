@@ -10,17 +10,16 @@
 
 @font-face {
 	font-family: "QuickSand";
-	src: url("../public/Quicksand/Quicksand-VariableFont_wght.ttf");
+	src: url("/Quicksand-VariableFont_wght.ttf");
 }
 @font-face {
 	font-family: "Mulish";
-	src: url("../public/Mulish/Mulish-VariableFont_wght.ttf");
+	src: url("/Mulish-VariableFont_wght.ttf");
 }
 
 * {
 	margin: 0;
 	padding: 0;
-	/* outline: solid 1px red; */
 }
 
 /* Corps du site */
